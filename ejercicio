@@ -1,0 +1,34 @@
+
+C:\Users\34611\Documents
+λ ls
+ bin/         desktop.ini  'Mi música'@      opt/                   WindowsPowerShell/
+ Cmder.exe*   icons/       'Mis imágenes'@   vendor/                Zoom/
+ config/      LICENSE      'Mis vídeos'@    'Version 1.3.17.1082'
+
+C:\Users\34611\Documents
+λ pwd
+C:\Users\34611\Documents
+
+C:\Users\34611\Documents
+λ cd
+C:\Users\34611\Documents
+
+C:\Users\34611\Documents
+λ ls -1
+bin/
+Cmder.exe*
+config/
+desktop.ini
+icons/
+LICENSE
+'Mi música'@
+'Mis imágenes'@
+'Mis vídeos'@
+opt/
+vendor/
+'Version 1.3.17.1082'
+WindowsPowerShell/
+Zoom/
+
+C:\Users\34611\Documents
+λ
